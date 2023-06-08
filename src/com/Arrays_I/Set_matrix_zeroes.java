@@ -1,6 +1,6 @@
 package com.Arrays_I;
 import java.util.*;
-//Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
+//Given an m x n integer matrix, if an element is 0, set its entire row and column to 0's.
 public class Set_matrix_zeroes {
 
         public static void setZeroes(int[][] matrix) {
