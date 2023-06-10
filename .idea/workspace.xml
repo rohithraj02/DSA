@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e25ca969-d294-43b6-93c5-9b1a961d568b" name="Changes" comment="Day 1: q1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e25ca969-d294-43b6-93c5-9b1a961d568b" name="Changes" comment="Day 1: q1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +35,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.sort_0_1_2">
-    <configuration name="Set_matrix_zeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays_I.Set_matrix_zeroes" />
+  <component name="RunManager" selected="Application.Stock_buy_sell">
+    <configuration name="Stock_buy_sell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays_I.Stock_buy_sell" />
       <module name="Sde_Sheet" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stock_buy_sell" />
         <item itemvalue="Application.sort_0_1_2" />
         <item itemvalue="Application.kadanes_algo" />
         <item itemvalue="Application.nextPermutation" />
         <item itemvalue="Application.pascal_triangle" />
-        <item itemvalue="Application.Set_matrix_zeroes" />
       </list>
     </recent_temporary>
   </component>
