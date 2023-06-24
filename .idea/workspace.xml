@@ -35,7 +35,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Stock_buy_sell">
+  <component name="RunManager" selected="Application.Repeating_Missing">
+    <configuration name="Repeating_Missing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays_II.Repeating_Missing" />
+      <module name="Sde_Sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Arrays_II.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Stock_buy_sell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Arrays_I.Stock_buy_sell" />
       <module name="Sde_Sheet" />
@@ -75,19 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pascal_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays_I.pascal_triangle" />
-      <module name="Sde_Sheet" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Arrays_I.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="sort_0_1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Arrays_I.sort_0_1_2" />
       <module name="Sde_Sheet" />
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Repeating_Missing" />
         <item itemvalue="Application.Stock_buy_sell" />
         <item itemvalue="Application.sort_0_1_2" />
         <item itemvalue="Application.kadanes_algo" />
         <item itemvalue="Application.nextPermutation" />
-        <item itemvalue="Application.pascal_triangle" />
       </list>
     </recent_temporary>
   </component>
