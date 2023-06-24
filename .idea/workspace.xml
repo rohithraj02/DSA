@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e25ca969-d294-43b6-93c5-9b1a961d568b" name="Changes" comment="Day 1: q1" />
+    <list default="true" id="e25ca969-d294-43b6-93c5-9b1a961d568b" name="Changes" comment="Day 1: q1">
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays_II/rotateImage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Repeating_Missing">
+  <component name="RunManager" selected="Application.rotateImage">
     <configuration name="Repeating_Missing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Arrays_II.Repeating_Missing" />
       <module name="Sde_Sheet" />
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays_I.nextPermutation" />
+    <configuration name="rotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays_II.rotateImage" />
       <module name="Sde_Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Arrays_I.*" />
+          <option name="PATTERN" value="com.Arrays_II.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.rotateImage" />
         <item itemvalue="Application.Repeating_Missing" />
         <item itemvalue="Application.Stock_buy_sell" />
         <item itemvalue="Application.sort_0_1_2" />
         <item itemvalue="Application.kadanes_algo" />
-        <item itemvalue="Application.nextPermutation" />
       </list>
     </recent_temporary>
   </component>
