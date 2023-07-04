@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e25ca969-d294-43b6-93c5-9b1a961d568b" name="Changes" comment="Day 1: q1">
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays_III/pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays_IV/longest_substring_without_rep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,22 +38,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.uniquePaths">
-    <configuration name="Repeating_Missing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays_II.Repeating_Missing" />
-      <module name="Sde_Sheet" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Arrays_II.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stock_buy_sell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays_I.Stock_buy_sell" />
+  <component name="RunManager" selected="Application.longest_substring_without_rep">
+    <configuration name="kadanes_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays_I.kadanes_algo" />
       <module name="Sde_Sheet" />
       <extension name="coverage">
         <pattern>
@@ -65,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays_III.pow" />
+    <configuration name="longest_substring_without_rep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Arrays_IV.longest_substring_without_rep" />
       <module name="Sde_Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Arrays_III.*" />
+          <option name="PATTERN" value="com.Arrays_IV.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +65,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Arrays_II.rotateImage" />
+    <configuration name="pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pow" />
       <module name="Sde_Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Arrays_II.*" />
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="revStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.revStr" />
+      <module name="Sde_Sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,7 +96,7 @@
       <module name="Sde_Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Arrays_III.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.longest_substring_without_rep" />
+        <item itemvalue="Application.kadanes_algo" />
+        <item itemvalue="Application.revStr" />
         <item itemvalue="Application.uniquePaths" />
         <item itemvalue="Application.pow" />
-        <item itemvalue="Application.rotateImage" />
-        <item itemvalue="Application.Repeating_Missing" />
-        <item itemvalue="Application.Stock_buy_sell" />
       </list>
     </recent_temporary>
   </component>

@@ -1,4 +1,4 @@
-package com.Arrays_III;
+package com;
 
 public class pow {
     public double myPow(double x, int n) {
