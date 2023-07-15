@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e25ca969-d294-43b6-93c5-9b1a961d568b" name="Changes" comment="Day 1: q1">
-      <change afterPath="$PROJECT_DIR$/src/com/Arrays_IV/longest_substring_without_rep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sample/binaryStorage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,16 +29,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/roh/IdeaProjects/Sde_Sheet/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "20",
+    "onboarding.tips.debug.path": "/home/roh/IdeaProjects/Sde_Sheet/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
   }
-}</component>
-  <component name="RunManager" selected="Application.longest_substring_without_rep">
+}]]></component>
+  <component name="RunManager" selected="Application.binaryStorage">
+    <configuration name="binaryStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.binaryStorage" />
+      <module name="Sde_Sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="kadanes_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Arrays_I.kadanes_algo" />
       <module name="Sde_Sheet" />
@@ -58,19 +74,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Arrays_IV.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pow" />
-      <module name="Sde_Sheet" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.binaryStorage" />
         <item itemvalue="Application.longest_substring_without_rep" />
         <item itemvalue="Application.kadanes_algo" />
         <item itemvalue="Application.revStr" />
         <item itemvalue="Application.uniquePaths" />
-        <item itemvalue="Application.pow" />
       </list>
     </recent_temporary>
   </component>
